@@ -1,0 +1,7 @@
+fastmcp
+requests
+pydantic
+aiofiles
+fastapi
+uvicorn[standard]
+python-dotenv
